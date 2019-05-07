@@ -1,0 +1,5 @@
+轮播插件           swiper
+json文件引入    axios      
+检查接口文档    postman
+JS  SRC  属性    jsonp 
+服务器代理              
